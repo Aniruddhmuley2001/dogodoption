@@ -1,0 +1,26 @@
+{
+  "name": "dogodoption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js, html}\" --write",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniruddhmuley2001/dogodoption.git"
+  },
+  "author": "Aniruddh Muley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniruddhmuley2001/dogodoption/issues"
+  },
+  "homepage": "https://github.com/Aniruddhmuley2001/dogodoption#readme",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-prettier": "^6.12.0",
+    "prettier": "^2.1.2"
+  }
+}
