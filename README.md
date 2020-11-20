@@ -1,4 +1,4 @@
-# Dogodoption
+# Dogodoption 🐶🐱
 This is an application to adopt animals like cat, dog, birds etc. Presently, it is only restricted to areas of California and Seattle, due to the API available.
 
 ## Tech Stack
